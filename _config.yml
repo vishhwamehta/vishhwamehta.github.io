@@ -60,14 +60,15 @@ plugins:
 author:
   name   : "Vishwa Mehta"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Aerospace Engineer, UofM '25, NITT '23, Entrepreneur and Creator."
+  bio    : "Aerospace Engineer<br>UofM '25, NITT '23<br>Entrepreneur and Creator."
+  googlescholar    : "https://scholar.google.com/citations?user=3G6ZKkgAAAAJ&hl=en"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/vishhhwamehta"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
