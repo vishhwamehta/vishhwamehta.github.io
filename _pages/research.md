@@ -9,14 +9,14 @@ author_profile: true
 
 ## ISRO & NIT Tiruchirappalli
 
+[**Mathematical Modeling of Bent Ammonia–Aluminum Axial Grooved Heat Pipes**](/research/bent-aghp-publication/) <br> 
+Peer-Reviewed Publication · *International Journal of Fluid Mechanics Research*, Vol. 52(4), 2025
+
 [**Flexible Heat Pipes for ISRO Spacecraft**](/research/flexible-heat-pipes/) <br> 
 Summer Research Intern · ISRO Space Applications Centre, Ahmedabad · May – Jul 2022
 
 [**3D-Printed Lattice Structured Wicks for Heat Pipe Applications**](/research/lattice-wicks/) <br> 
 B.Tech Thesis · NIT Tiruchirappalli · Jul 2022 – May 2023
-
-[**Mathematical Modeling of Bent Ammonia–Aluminum Axial Grooved Heat Pipes**](/research/bent-aghp-publication/) <br> 
-Peer-Reviewed Publication · *International Journal of Fluid Mechanics Research*, Vol. 52(4), 2025
 
 ---
 
