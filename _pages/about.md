@@ -1,8 +1,16 @@
 ---
+title: ""
 permalink: /about/
-title: "About"
+layout: single
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi! I'm Vishwa — an Aerospace Engineer and entrepreneur based in the US. I recently completed my MS in Aerospace Engineering from the [University of Michigan](https://umich.edu), where my work spanned aerodynamic optimization, composite aerostructures, and multidisciplinary design.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I'm co-founder and CTO of [NextGen Diastasi LLP](https://nextgendiastasi.com), where I've led mechanical design across medical devices, consumer products, and industrial systems. Prior to Michigan, I completed my BTech at [NIT Tiruchirappalli](https://www.nitt.edu).
+
+My research has taken me to [ISRO](https://www.isro.gov.in), where I worked on spacecraft thermal systems — specifically flexible heat pipe wicks — resulting in a peer-reviewed publication. I've also contributed to US Air Force-funded research on nanomaterial-reinforced CFRP composites at UofM.
+
+I'm currently exploring roles in aerospace, robotics, and hardware startups at the intersection of structures, systems, and intelligent design.
+
+---
