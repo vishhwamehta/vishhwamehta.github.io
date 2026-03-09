@@ -1,0 +1,77 @@
+---
+layout: single
+author_profile: true
+permalink: /
+
+feature_row:
+  - image_path: https://picsum.photos/400/300 #/assets/images/uav-mdo.jpg
+
+    title: "Stealth UAV Propeller MDO"
+    excerpt: "SLSQP-based multidisciplinary optimization. η = 0.885, SPL = 33.7 dB."
+    url: "/projects/uav-mdo/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+
+  - image_path: https://picsum.photos/400/300 # /assets/images/mach-aero.jpg
+    title: "Aerodynamic Shape Optimization"
+    excerpt: "19.1% drag reduction using OpenAeroStruct with adjoint-based methods."
+    url: "/projects/drag-reduction/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+
+  - image_path: https://picsum.photos/400/300 # /assets/images/heatpipe.jpg
+    title: "Flexible Heat Pipe — ISRO"
+    excerpt: "Spacecraft thermal systems research. Peer-reviewed publication."
+    url: "/projects/heat-pipe/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+
+feature_row2:
+  - image_path: https://picsum.photos/400/300 # /assets/images/cfrp.jpg
+    title: "CFRP Composite Panel"
+    excerpt: "Nanomaterial-reinforced carbon fiber fabrication for US Air Force research."
+    url: "/projects/cfrp/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+
+  - image_path: https://picsum.photos/400/300 # /assets/images/rgbd.jpg
+    title: "RGB-D Sensor Fusion Fixture"
+    excerpt: "Precision mechanical fixture for robotics perception. Sub-mm alignment."
+    url: "/projects/rgbd/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+
+  - image_path: https://picsum.photos/400/300 # /assets/images/c5.jpg
+    title: "C-5/C-17 Successor Design"
+    excerpt: "Full conceptual aircraft design — aerodynamics (AVL), structures (SolidWorks)."
+    url: "/projects/c5-design/"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+
+---
+
+Hi! I'm Vishwa — an Aerospace Engineer and entrepreneur based in the US.
+
+I recently completed my MS in Aerospace Engineering from the [University of Michigan](https://umich.edu), where my work spanned aerodynamic optimization, composite aerostructures, and multidisciplinary design.
+
+I'm co-founder and CTO of [NextGen Diastasi LLP](/nextgen/), where I've led mechanical design across medical devices, consumer products, and industrial systems. Prior to Michigan, I completed my BTech at [NIT Tiruchirappalli](https://www.nitt.edu).
+
+My research has taken me to [ISRO](https://www.isro.gov.in), where I worked on spacecraft thermal systems — specifically flexible heat pipe wicks — resulting in a peer-reviewed publication. I've also contributed to US Air Force-funded research on nanomaterial-reinforced CFRP composites at UofM.
+
+I'm currently exploring roles in aerospace, robotics, and hardware startups at the intersection of structures, systems, and intelligent design.
+
+---
+
+## Featured Projects
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" %}
+
+---
+
+## NextGen Diastasi
+
+[NextGen Diastasi LLP](/nextgen/) is a mechanical design consultancy I co-founded, delivering precision hardware across medical devices, consumer products, and industrial systems.
+
+[Learn More →](/nextgen/){: .btn .btn--primary}
