@@ -1,9 +1,11 @@
 main:
+  - title: "Research"
+    url: /research/
   - title: "Projects"
     url: /projects/
   - title: "NextGen Diastasi"
     url: /nextgen/
-  - title: "Resume"
+  - title: "CV"
     url: /resume/
   - title: "Blog"
     url: /blog/
