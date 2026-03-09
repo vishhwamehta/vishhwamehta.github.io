@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-## ISRO & NIT Tiruchirappalli
+## ISRO (Indian Space Research Organisation) & NIT Tiruchirappalli
 
 [**Mathematical Modeling of Bent Ammonia–Aluminum Axial Grooved Heat Pipes**](/research/bent-aghp-publication/) <br> 
 Peer-Reviewed Publication · *International Journal of Fluid Mechanics Research*, Vol. 52(4), 2025
