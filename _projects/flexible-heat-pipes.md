@@ -22,9 +22,9 @@ gallery:
 
 ---
 
-## Overview
-
 {% include gallery %}
+
+## Overview
 
 Design engineering of ammonia-based flexible heat pipes for spacecraft thermal management, conducted in collaboration with ISRO's Space Applications Centre (SAC), Ahmedabad. Heat pipes are passive, sealed thermal transport devices that move heat from electronics and engines to radiators without any power input — their effective thermal conductivity far exceeds conventional conductors of equivalent size and mass.
 
