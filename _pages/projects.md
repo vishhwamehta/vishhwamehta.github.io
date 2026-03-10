@@ -48,19 +48,19 @@ AE 481 · University of Michigan · Dec 2023
 
 ## Design Engineering
 
-[**RGB-D Sensor Fusion Fixture**](/projects/rgb-d-sensor-fusion/)
+[**RGB-D Sensor Fusion Fixture**](/projects/rgb-d-sensor-fusion/) <br>
 Lead Design Engineer / CTO · NextGen Diastasi LLP · 2026
 
-[**Ureteral Dilator System**](/projects/ureteral-dilator/)
+[**Ureteral Dilator System**](/projects/ureteral-dilator/) <br>
 Lead Design Engineer / CTO · NextGen Diastasi LLP · 2023
 
-[**Piezoelectric Sensor Assembly Fixture**](/projects/piezo-sensor-fixture/)
+[**Piezoelectric Sensor Assembly Fixture**](/projects/piezo-sensor-fixture/) <br>
 Design Intern · Azeriri · Jun – Jul 2021
 
-[**Ultrasonic Sensor Tester Head**](/projects/ultrasonic-tester-head/)
+[**Ultrasonic Sensor Tester Head**](/projects/ultrasonic-tester-head/) <br>
 Design Intern · Azeriri · Jun – Jul 2021
 
-[**NDT Ultrasonic Probe Housing — Coil UT & Plate UT**](/projects/ndt-probe-housing/)
+[**NDT Ultrasonic Probe Housing — Coil UT & Plate UT**](/projects/ndt-probe-housing/) <br>
 Design Intern · Azeriri · Jun – Jul 2021
 
 ---
