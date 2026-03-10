@@ -23,13 +23,13 @@ B.Tech Thesis · NIT Tiruchirappalli · Jul 2022 – May 2023
 ## Multidisciplinary Design Optimziation Lab — University of Michigan
 
 [**Tsai-Wu Failure Model for Composite Aerostructural Optimization**](/research/tsai-wu-openaerostruct/) <br> 
-Independent Research · MDO Lab, UofM · Jan – May 2024
+Independent Research · MDO Lab, UofM · Jan – Nov 2024
 
 ---
 
 ## Aerospace Materials Laboratory — University of Michigan
 
 [**Nanomaterial-Reinforced CFRP Composites**](/research/nanomaterial-cfrp/) <br> 
-Research Assistant · Aerospace Materials Lab, UofM · Jan – May 2024
+Research Assistant · Aerospace Materials Lab, UofM · Sept 2023 – Oct 2024
 
 ---
