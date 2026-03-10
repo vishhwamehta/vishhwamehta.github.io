@@ -5,17 +5,17 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/research/fhp_design.jpg
-    image_path: /assets/images/research/fhp_design.jpg
-    alt: "Flexible heat pipe design"
-    title: "Ammonia-based flexible heat pipe with axial grooves"
-  - url: /assets/images/research/fhp_stress.jpg
-    image_path: /assets/images/research/fhp_stress.jpg
-    alt: "Groove fin structural simulation"
-    title: "Von Mises stress in axial groove fins under ammonia saturation pressure"
+  - url: /assets/images/research/vmdisplacement.png
+    image_path: /assets/images/research/vmdisplacement.png
+    alt: "Flexible heat pipe displacement under operating internal pressure"
+    title: "Flexible heat pipe displacement under operating internal pressure"
+  - url: /assets/images/research/finvmdisp.png
+    image_path: /assets/images/research/finvmdisp.png
+    alt: "Flexible axial groove fin displacement under operating internal pressure"
+    title: "Flexible axial groove fin displacement under operating internal pressure"
 ---
 
-*Summer Research Intern · Space Applications Centre (SAC), ISRO, Ahmedabad*
+*Summer Research Intern · Space Applications Centre (SAC), ISRO, Ahmedabad* <br>
 *Guided by Dr. S. Suresh, NIT Tiruchirappalli · May 2022 – Jul 2022*
 
 [← Back to Research](/research/){: .btn .btn--inverse}
@@ -23,6 +23,8 @@ gallery:
 ---
 
 ## Overview
+
+{% include gallery %}
 
 Design engineering of ammonia-based flexible heat pipes for spacecraft thermal management, conducted in collaboration with ISRO's Space Applications Centre (SAC), Ahmedabad. Heat pipes are passive, sealed thermal transport devices that move heat from electronics and engines to radiators without any power input — their effective thermal conductivity far exceeds conventional conductors of equivalent size and mass.
 
@@ -54,4 +56,3 @@ The focus was on **axially grooved flexible heat pipes** with ammonia as the wor
 
 MATLAB · SolidWorks · Analytical thermal/structural modeling
 
-{% include gallery %}
