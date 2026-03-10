@@ -5,12 +5,12 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/research/qmax.jpg
-    image_path: /assets/images/research/qmax.jpg
+  - url: /assets/images/research/qmax.png
+    image_path: /assets/images/research/qmax.png
     alt: "Variation of Maximum Heat Transfer Capacity at different bend angles"
     title: "Variation of Maximum Heat Transfer Capacity at different bend angles"
-  - url: /assets/images/research/RTotal.jpg
-    image_path: /assets/images/research/RTotal.jpg
+  - url: /assets/images/research/RTotal.png
+    image_path: /assets/images/research/RTotal.png
     alt: "Variation of Total Thermal Resistance at different bend angles"
     title: "Variation of Total Thermal Resistance at different bend angles"
 ---
