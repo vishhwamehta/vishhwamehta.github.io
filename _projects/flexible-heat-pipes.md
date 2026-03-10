@@ -5,8 +5,8 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/research/vmdisplacement.png
-    image_path: /assets/images/research/vmdisplacement.png
+  - url: /assets/images/research/vmdisplacement.jpg
+    image_path: /assets/images/research/vmdisplacement.jpg
     alt: "Flexible heat pipe displacement under operating internal pressure"
     title: "Flexible heat pipe displacement under operating internal pressure"
   - url: /assets/images/research/finvmdisp.png
