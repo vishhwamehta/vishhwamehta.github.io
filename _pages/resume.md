@@ -15,12 +15,13 @@ Three résumé variants are maintained, each emphasizing a different technical f
 
 ## Education
 
-**University of Michigan** · Ann Arbor, MI
-MSE in Aerospace Engineering · GPA: 3.51 · Aug 2023 – May 2025
+**University of Michigan** · Ann Arbor, MI <br>
+MSE in Aerospace Engineering · GPA: 3.51 · Aug 2023 – May 2025 <br>
 *Notable courses: Multidisciplinary Design Optimization, Statistical Inference Estimation & Learning, GNC, Mobile Robotics*
 
-**National Institute of Technology Tiruchirappalli** · India
-B.Tech in Mechanical Engineering · First Class · GPA: 8.42/10 · Aug 2019 – May 2023
+**National Institute of Technology Tiruchirappalli** · India <br>
+B.Tech in Mechanical Engineering · First Class · GPA: 8.42/10 · Aug 2019 – May 2023 <br>
+*Notable courses: Design of Machine Elements, Finite Element Method, Heat and Mass Transfer*
 
 ---
 
