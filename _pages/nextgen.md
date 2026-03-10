@@ -13,14 +13,15 @@ gallery_hero:
     image_path: /assets/images/nextgen/maruti_model.jpg
     alt: "Maruti 360 architectural model"
     title: "Maruti 360 — twin residential tower replicas for Maruti Group"
-  - url: /assets/images/nextgen/wick_prototypes.jpg
-    image_path: /assets/images/nextgen/wick_prototypes.jpg
-    alt: "ISRO heat pipe wick prototypes"
-    title: "SLA/SLS-printed lattice wick prototypes for ISRO flexible heat pipe R&D"
-  - url: /assets/images/nextgen/dilator_cad.jpg
-    image_path: /assets/images/nextgen/dilator_cad.jpg
-    alt: "Medical device prototypes"
-    title: "Reverse-engineered ureteral dilator system — 10+ components to ±25 micron accuracy"
+  - url: /assets/images/nextgen/twt_model.jpg
+    image_path: /assets/images/nextgen/twt_model.jpg
+    alt: "Titanium World Towers architectural model"
+    title: "Titanium World Towers — miniature replica of Ahmedabad's 2nd tallest skyscraper"
+    
+  #- url: /assets/images/nextgen/dilator_cad.jpg
+    #image_path: /assets/images/nextgen/dilator_cad.jpg
+    #alt: "Medical device prototypes"
+    #title: "Reverse-engineered ureteral dilator system — 10+ components to ±25 micron accuracy"
 ---
 
 [nextgendiastasi.com ↗](https://www.nextgendiastasi.com){: .btn .btn--primary}
