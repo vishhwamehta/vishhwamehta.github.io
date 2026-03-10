@@ -5,14 +5,14 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/research/aghp_model.jpg
-    image_path: /assets/images/research/aghp_model.jpg
-    alt: "AGHP mathematical model"
-    title: "Capillary pressure and pressure drop model for bent AGHP"
-  - url: /assets/images/research/aghp_grooves.jpg
-    image_path: /assets/images/research/aghp_grooves.jpg
-    alt: "Axial groove geometry"
-    title: "Axial groove geometry and liquid-vapor interface meniscus"
+  - url: /assets/images/research/qmax.jpg
+    image_path: /assets/images/research/qmax.jpg
+    alt: "Variation of Maximum Heat Transfer Capacity at different bend angles"
+    title: "Variation of Maximum Heat Transfer Capacity at different bend angles"
+  - url: /assets/images/research/RTotal.jpg
+    image_path: /assets/images/research/RTotal.jpg
+    alt: "Variation of Total Thermal Resistance at different bend angles"
+    title: "Variation of Total Thermal Resistance at different bend angles"
 ---
 
 *Peer-Reviewed Publication · NIT Tiruchirappalli & ISRO Space Applications Centre*
@@ -28,6 +28,7 @@ gallery:
 > Mehta, V., Singh, V.K., & Suresh, S. (2025). Mathematical Modeling of Bent Ammonia–Aluminum Axial Grooved Heat Pipes for Spacecraft Applications. *International Journal of Fluid Mechanics Research*, 52(4), 93–116.
 
 ---
+{% include gallery %}
 
 ## Overview
 
@@ -65,4 +66,4 @@ Model predictions validated against experimental data for straight and bent alum
 *International Journal of Fluid Mechanics Research* · Vol. 52, Issue 4, pp. 93–116 · 2025
 Published by Begell House
 
-{% include gallery %}
+
