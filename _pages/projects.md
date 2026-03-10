@@ -45,3 +45,22 @@ ROB 530 · University of Michigan
 AE 481 · University of Michigan · Dec 2023
 
 ---
+
+## Design Engineering
+
+[**RGB-D Sensor Fusion Fixture**](/projects/rgb-d-sensor-fusion/)
+Lead Design Engineer / CTO · NextGen Diastasi LLP · 2026
+
+[**Ureteral Dilator System**](/projects/ureteral-dilator/)
+Lead Design Engineer / CTO · NextGen Diastasi LLP · 2023
+
+[**Piezoelectric Sensor Assembly Fixture**](/projects/piezo-sensor-fixture/)
+Design Intern · Azeriri · Jun – Jul 2021
+
+[**Ultrasonic Sensor Tester Head**](/projects/ultrasonic-tester-head/)
+Design Intern · Azeriri · Jun – Jul 2021
+
+[**NDT Ultrasonic Probe Housing — Coil UT & Plate UT**](/projects/ndt-probe-housing/)
+Design Intern · Azeriri · Jun – Jul 2021
+
+---
