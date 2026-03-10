@@ -36,7 +36,7 @@ The work spans architectural scale models for India's largest real estate develo
 
 ---
 
-## Selected Projects
+## Featured Projects
 
 ---
 
