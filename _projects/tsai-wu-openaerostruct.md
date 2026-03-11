@@ -5,14 +5,14 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/projects/ae590_1.jpg
-    image_path: /assets/images/projects/ae590_1.jpg
-    alt: "OpenAeroStruct aerostructural optimization"
-    title: "Aerostructural optimization with Tsai-Wu failure constraint"
-  - url: /assets/images/projects/ae590_2.jpg
-    image_path: /assets/images/projects/ae590_2.jpg
-    alt: "Tsai-Wu failure envelope"
-    title: "Tsai-Wu composite failure envelope vs. von Mises"
+  - url: /assets/images/research/oas_wingbox.png
+    image_path: /assets/images/research/oas_wingbox.png
+    alt: "OpenAeroStruct wingbox"
+    title: "OpenAeroStruct wingbox layout with VLM mesh (Chauhan & Martins, 2018)"
+  - url: /assets/images/research/composite_elements.png
+    image_path: /assets/images/research/composite_elements.png
+    alt: "Stresses on the Composite Laminate at critical points on the wingbox"
+    title: "Stresses on the Composite Laminate at critical points on the wingbox"
 ---
 
 *AEROSP 590 — Independent Research · University of Michigan · May 2024*
@@ -22,6 +22,8 @@ gallery:
 [← Back to Projects](/projects/){: .btn .btn--inverse}
 
 ---
+
+{% include gallery %}
 
 ## Overview
 
@@ -52,4 +54,3 @@ First composite failure model natively integrated into OpenAeroStruct's aerostru
 
 Python · OpenAeroStruct · OpenMDAO · TACS · NumPy
 
-{% include gallery %}
