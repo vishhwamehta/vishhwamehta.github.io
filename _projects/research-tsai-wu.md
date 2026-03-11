@@ -23,6 +23,8 @@ gallery:
 
 ---
 
+{% include gallery %}
+
 ## Overview
 
 Development of a Tsai-Wu based composite failure criterion integrated into [OpenAeroStruct](https://github.com/mdolab/OpenAeroStruct) — the MDO Lab's open-source low-fidelity aerostructural optimization framework. OpenAeroStruct couples a Vortex Lattice Method (VLM) aerodynamic solver with a spatial beam FEM for structural analysis. Its existing failure model used von Mises stress — an isotropic criterion that is physically incorrect for fiber-reinforced composites, which exhibit strongly direction-dependent failure behavior.
@@ -81,4 +83,3 @@ Case II fuel burn matches the high-fidelity benchmark to within **0.4%**, valida
 
 Python · OpenAeroStruct · OpenMDAO · TACS · NumPy
 
-{% include gallery %}
