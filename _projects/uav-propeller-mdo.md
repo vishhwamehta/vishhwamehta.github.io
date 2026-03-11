@@ -15,13 +15,15 @@ gallery:
     title: "Optimum Twist Distribution along the blade for different constraint values of the Thrust Coefficient"
 ---
 
-*AEROSP 588 — Multidisciplinary Design Optimization · University of Michigan · December 2023*
+*AEROSP 588 — Multidisciplinary Design Optimization · University of Michigan · December 2023* <br>
 *Team: Naman Makkar, Vishwa Mehta*
 
 [📄 Full Report](/assets/reports/AEROSP588_Project.pdf){: .btn .btn--primary}
 [← Back to Projects](/projects/){: .btn .btn--inverse}
 
 ---
+
+{% include gallery %}
 
 ## Overview
 
@@ -58,4 +60,3 @@ Both efficiency and acoustic targets satisfied simultaneously.
 
 Python · SLSQP · XFOIL · Blade Element Momentum Theory · FW-H Acoustics
 
-{% include gallery %}
