@@ -5,14 +5,14 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/projects/dilator_cad.jpg
-    image_path: /assets/images/projects/dilator_cad.jpg
-    alt: "Ureteral dilator CAD models"
+  - url: /assets/images/projects/dilator_cad.png
+    image_path: /assets/images/projects/dilator_cad.png
+    alt: "Ureteral dilator system part CAD models"
     title: "Fusion360 CAD models of dilator system components"
-  - url: /assets/images/projects/dilator_prototypes.jpg
-    image_path: /assets/images/projects/dilator_prototypes.jpg
+  - url: /assets/images/projects/dilator_prototypes.png
+    image_path: /assets/images/projects/dilator_prototypes.png
     alt: "SLA-printed prototypes"
-    title: "SLA-printed prototypes in FDA-approved polymers for client approval"
+    title: "SLA-printed prototypes for client approval"
 ---
 
 *Lead Design Engineer / CTO · NextGen Diastasi LLP · 2023*
@@ -20,6 +20,8 @@ gallery:
 [← Back to Projects](/projects/){: .btn .btn--inverse}
 
 ---
+
+{% include gallery %}
 
 ## Overview
 
@@ -45,4 +47,3 @@ Reverse-engineering of a patent-expired ureteral dilator system for mass manufac
 
 Fusion 360 · SLA 3D Printing · GD&T · Digital measurement / CMM
 
-{% include gallery %}
