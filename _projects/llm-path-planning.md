@@ -5,23 +5,25 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/projects/rob530_1.jpg
-    image_path: /assets/images/projects/rob530_1.jpg
+  - url: /assets/images/projects/rob530_1.png
+    image_path: /assets/images/projects/rob530_1.png
+    alt: "Live visualization of ORB-SLAM3 during mapping."
+    title: "Live visualization of ORB-SLAM3 during mapping. The system tracks features and updates keyframes in real-time as the robot navigates."
+  - url: /assets/images/projects/rob530_2.png
+    image_path: /assets/images/projects/rob530_2.png
     alt: "ORB-SLAM3 occupancy map"
     title: "2D occupancy map generated via image-enhanced ORB-SLAM3"
-  - url: /assets/images/projects/rob530_2.jpg
-    image_path: /assets/images/projects/rob530_2.jpg
-    alt: "LLM navigation architecture"
-    title: "Hybrid LLM + SLAM navigation system architecture"
 ---
 
-*ROB 530 — Mobile Robotics · University of Michigan*
+*ROB 530 — Mobile Robotics · University of Michigan* <br>
 *Team: Kaushek Kumar T R (EECS), Sanjana Raghavan (EECS), Vishwa Mehta (Aerospace Engineering)*
 
 [📄 Full Report](/assets/reports/ROB530_Project_Report.pdf){: .btn .btn--primary}
 [← Back to Projects](/projects/){: .btn .btn--inverse}
 
 ---
+
+{% include gallery %}
 
 ## Overview
 
@@ -67,4 +69,4 @@ A large language model interprets high-level natural language navigation command
 
 ROS2 · ORB-SLAM3 · PyTorch (EnlightenGAN) · LLM API · OpenCV · DWA Local Planner
 
-{% include gallery %}
+
