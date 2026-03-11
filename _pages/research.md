@@ -22,7 +22,7 @@ B.Tech Thesis · NIT Tiruchirappalli · Jul 2022 – May 2023
 
 ## Multidisciplinary Design Optimziation Lab — University of Michigan
 
-[**Tsai-Wu Failure Model for Composite Aerostructural Optimization**](/research/tsai-wu-openaerostruct/) <br> 
+[**Tsai-Wu Failure Model for Composite Aerostructural Optimization**](/research/research-tsai-wu/) <br> 
 Independent Research · MDO Lab, UofM · Jan – Nov 2024
 
 ---
