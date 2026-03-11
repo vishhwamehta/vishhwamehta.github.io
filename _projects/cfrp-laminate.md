@@ -5,12 +5,12 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/projects/ae516_1.jpg
-    image_path: /assets/images/projects/ae516_1.jpg
-    alt: "Manufactured CFRP laminate"
-    title: "Autoclave-cured IM7-8552 laminate"
-  - url: /assets/images/projects/ae516_2.jpg
-    image_path: /assets/images/projects/ae516_2.jpg
+  - url: /assets/images/projects/ae516_1.png
+    image_path: /assets/images/projects/ae516_1.png
+    alt: "4-point bend testing"
+    title: "4-point bend testing"
+  - url: /assets/images/projects/ae516_2.png
+    image_path: /assets/images/projects/ae516_2.png
     alt: "4-point bend test specimens"
     title: "Water-jet cut specimens for ASTM D7264 testing"
 ---
@@ -21,6 +21,8 @@ gallery:
 [← Back to Projects](/projects/){: .btn .btn--inverse}
 
 ---
+
+{% include gallery %}
 
 ## Overview
 
@@ -87,4 +89,3 @@ A **selection algorithm** screened all ply-orientation combinations (−90° to 
 
 MATLAB · Autoclave · Instron (4-point bend) · Water-Jet · ASTM D7264
 
-{% include gallery %}
