@@ -5,14 +5,14 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/projects/ae588_1.jpg
-    image_path: /assets/images/projects/ae588_1.jpg
-    alt: "Propeller twist distribution"
-    title: "Optimized twist distribution across blade span"
-  - url: /assets/images/projects/ae588_2.jpg
-    image_path: /assets/images/projects/ae588_2.jpg
-    alt: "Efficiency vs SPL Pareto front"
-    title: "Pareto front: propulsive efficiency vs. acoustic signature"
+  - url: /assets/images/projects/ae588_1.png
+    image_path: /assets/images/projects/ae588_1.png
+    alt: "Optimum Twist Distribution along the blade during different mission phases"
+    title: "Optimum Twist Distribution along the blade during different mission phases"
+  - url: /assets/images/projects/ae588_2.png
+    image_path: /assets/images/projects/ae588_2.png
+    alt: "Optimum Twist Distribution along the blade for different constraint values of the Thrust Coefficient"
+    title: "Optimum Twist Distribution along the blade for different constraint values of the Thrust Coefficient"
 ---
 
 *AEROSP 588 — Multidisciplinary Design Optimization · University of Michigan · December 2023*
