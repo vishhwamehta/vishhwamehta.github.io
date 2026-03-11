@@ -5,24 +5,26 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/projects/ae481_1.jpg
-    image_path: /assets/images/projects/ae481_1.jpg
+  - url: /assets/images/projects/ae481_1.png
+    image_path: /assets/images/projects/ae481_1.png
     alt: "Three-view drawing"
     title: "Dimensioned three-view drawing — Lifting Large Design Co."
-  - url: /assets/images/projects/ae481_2.jpg
-    image_path: /assets/images/projects/ae481_2.jpg
-    alt: "Cargo bay interior layout"
-    title: "Cargo bay loading configurations and interior layout"
+  - url: /assets/images/projects/ae481_2.png
+    image_path: /assets/images/projects/ae481_2.png
+    alt: "Flight Envelope (Max Weight) at 20,000ft"
+    title: "Flight Envelope (Max Weight) at 20,000ft"
 ---
 
-*AE 481 — Aircraft Design · University of Michigan · December 2023*
-*Team: Lifting Large Design Co. — Aayush Agarwal, Rawan Aljaber, Andrew Chen, Ian Johnson, Vishwa Mehta*
+*AE 481 — Aircraft Design · University of Michigan · December 2023* <br>
+*Team: Lifting Large Design Co. — Aayush Agarwal, Rawan Aljaber, Andrew Chen, Ian Johnson, Vishwa Mehta* <br>
 *Instructor: Prof. Gokcin Cinar*
 
 [📄 Full Report](/assets/reports/AE481_CDR_Report.pdf){: .btn .btn--primary}
 [← Back to Projects](/projects/){: .btn .btn--inverse}
 
 ---
+
+{% include gallery %}
 
 ## Overview
 
@@ -51,12 +53,12 @@ The team followed a full conceptual design sequence from RFP interpretation thro
 - **Interior layout** — cargo bay configuration, loading ramp design, multiple payload loading scenarios
 - **Performance** — field performance, cruise performance, payload-range diagram
 
-## Vishwa's Contributions
+## My Contributions
 
-- Interior layout and cargo bay spatial design
+- V-n diagrams, Maneuver loads for Maximum Weight at 20,000ft
 - Cargo bay loading configurations (multiple payload types and arrangements)
-- Cargo loading ramp geometry and mechanism concept
-- Structural contribution to fuselage sizing
+- Weights and CG Travel for all payload configurations
+- Refined MTOW estimation
 
 ## Key Design Parameters
 
@@ -71,5 +73,3 @@ The team followed a full conceptual design sequence from RFP interpretation thro
 ## Tools
 
 SolidWorks · AVL · MATLAB · FLOPS
-
-{% include gallery %}
