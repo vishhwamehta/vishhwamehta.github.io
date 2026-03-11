@@ -5,12 +5,12 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/projects/rgbd_cad.jpg
-    image_path: /assets/images/projects/rgbd_cad.jpg
+  - url: /assets/images/projects/fixture-cs.jpg
+    image_path: /assets/images/projects/fixture-cs.jpg
     alt: "RGB-D fixture CAD cross-section"
     title: "Fusion360 cross-section showing sensor mounting cavities and kinematic features"
-  - url: /assets/images/projects/rgbd_prototype.jpg
-    image_path: /assets/images/projects/rgbd_prototype.jpg
+  - url: /assets/images/projects/fixture-assembled.jpg
+    image_path: /assets/images/projects/fixture-assembled.jpg
     alt: "Fabricated RGB-D fixture prototype"
     title: "FDM-printed housing with RGB camera and depth sensor installed"
 ---
@@ -20,6 +20,8 @@ gallery:
 [← Back to Projects](/projects/){: .btn .btn--inverse}
 
 ---
+
+{% include gallery %}
 
 ## Overview
 
@@ -51,5 +53,3 @@ Cost-effective RGB-D sensor fixture for robotic perception applications, develop
 ## Tools
 
 Fusion 360 · FDM (PETG) · Tolerance stack-up analysis · OpenCV (calibration)
-
-{% include gallery %}
