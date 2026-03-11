@@ -5,22 +5,24 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/projects/piezo_mk1.jpg
-    image_path: /assets/images/projects/piezo_mk1.jpg
+  - url: /assets/images/projects/piezo_mk1.png
+    image_path: /assets/images/projects/piezo_mk1.png
     alt: "Mark 1 fixture tray"
     title: "Mark 1 — 6×6 fixture tray with concentric O-ring seats and retainer plate"
-  - url: /assets/images/projects/piezo_mk2.jpg
-    image_path: /assets/images/projects/piezo_mk2.jpg
+  - url: /assets/images/projects/piezo_mk2.png
+    image_path: /assets/images/projects/piezo_mk2.png
     alt: "Mark 2 fixture with inserts"
     title: "Mark 2 — universal tray with interchangeable inserts and tolerance rings for mixed-diameter sensors"
 ---
 
-*Design Intern · Azeriri · Jun – Jul 2021*
+*Design Intern · Azeriri · Jun – Jul 2021* <br>
 *Mentors: Nishal Ramadas, Makesh Janakraj*
 
 [← Back to Projects](/projects/){: .btn .btn--inverse}
 
 ---
+
+{% include gallery %}
 
 ## Overview
 
@@ -38,7 +40,7 @@ Piezoelectric ultrasonic sensors are three-part assemblies — a ceramic (piezo)
 
 ## Mark 2
 
-**Problem:** A fixed-dimension tray is inflexible for a startup producing sensors of varying diameters (8mm, 10mm, 20mm), and tray replacement per size is cost-prohibitive at early stage.
+**Problem:** A fixed-dimension tray is inflexible for a startup producing sensors of varying diameters (8mm, 10mm, 20mm). High wear and tear of the trays during assembly and maintenance and tray replacement per size being cost-prohibitive at early stage. 
 
 **Solution:** Universal tray with **interchangeable inserts** — cylindrical sleeves with fixed OD (matching tray bore) and varying ID (matching sensor diameter). The same tray body serves all sensor sizes; only the inserts are swapped.
 
@@ -52,4 +54,4 @@ Mark 2 was designed as a 6×6 tray with 2 rows per sensor diameter (8mm / 10mm /
 
 Fusion 360 · GD&T · Design for Manufacture
 
-{% include gallery %}
+
