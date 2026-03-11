@@ -1,0 +1,11 @@
+---
+# Only the main Sass file needs front matter (it's the top-level page)
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+.author__avatar img {
+  border-radius: 10px;   /* 0px = square, 50% = circle, anything in between = rounded rect */
+  max-width: 120px;      /* increase/decrease to resize */
+}
