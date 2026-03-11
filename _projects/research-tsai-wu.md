@@ -5,14 +5,14 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/research/oas_wingbox.jpg
-    image_path: /assets/images/research/oas_wingbox.jpg
+  - url: /assets/images/research/oas_wingbox.png
+    image_path: /assets/images/research/oas_wingbox.png
     alt: "OpenAeroStruct wingbox"
     title: "OpenAeroStruct wingbox layout with VLM mesh (Chauhan & Martins, 2018)"
-  - url: /assets/images/research/oas_results.jpg
-    image_path: /assets/images/research/oas_results.jpg
-    alt: "Optimized thickness distribution"
-    title: "Optimized skin/spar thickness distribution — Benchmark Case 2"
+  - url: /assets/images/research/composite_elements.png
+    image_path: /assets/images/research/composite_elements.png
+    alt: "Stresses on the Composite Laminate at critical points on the wingbox"
+    title: "Stresses on the Composite Laminate at critical points on the wingbox"
 ---
 
 *Independent Research · MDO Lab, University of Michigan*
