@@ -9,10 +9,10 @@ gallery:
     image_path: /assets/images/research/lattice_wick.jpg
     alt: "3D printed lattice wick"
     title: "FDM-printed lattice structured wick geometry"
-  - url: /assets/images/research/braided_section.jpg
-    image_path: /assets/images/research/braided_section.jpg
-    alt: "Steel braided adiabatic section"
-    title: "Steel-braided flexible adiabatic section"
+  - url: /assets/images/research/ntop.jpg
+    image_path: /assets/images/research/ntop.jpg
+    alt: "Parametric Lattice in NTopology"
+    title: "Parametric Lattice in NTopology"
 ---
 
 *B.Tech Thesis · Department of Mechanical Engineering, NIT Tiruchirappalli*
@@ -23,6 +23,8 @@ gallery:
 [← Back to Research](/research/){: .btn .btn--inverse}
 
 ---
+
+{% include gallery %}
 
 ## Overview
 
@@ -58,4 +60,3 @@ Conventional heat pipe wicks (sintered powder, mesh, axial grooves) are difficul
 
 SolidWorks · FDM/SLA Additive Manufacturing · MATLAB · Experimental thermal testing rig
 
-{% include gallery %}
