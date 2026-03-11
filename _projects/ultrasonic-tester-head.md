@@ -5,14 +5,14 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/projects/tester_head_cad.jpg
-    image_path: /assets/images/projects/tester_head_cad.jpg
+  - url: /assets/images/projects/tester_head_cad.png
+    image_path: /assets/images/projects/tester_head_cad.png
     alt: "Tester head CAD"
     title: "Open-book tester head — front and isometric views"
-  - url: /assets/images/projects/tester_assembly.jpg
-    image_path: /assets/images/projects/tester_assembly.jpg
-    alt: "Full tester assembly concept"
-    title: "Full assembly concept: tester head on optical rail + bearing block system"
+  - url: /assets/images/projects/tester_concept.png
+    image_path: /assets/images/projects/tester_concept.png
+    alt: "Tester concept with off-the-shelf components"
+    title: "Tester concept with off-the-shelf components (optical rails and block bearings)"
 ---
 
 *Design Intern · Azeriri · Jun – Jul 2021*
@@ -21,7 +21,7 @@ gallery:
 [← Back to Projects](/projects/){: .btn .btn--inverse}
 
 ---
-
+{% include gallery %}
 ## Overview
 
 High-throughput testing of piezoelectric ultrasonic sensors requires precise, repeatable face-to-face alignment of two sensor probes for pulse-echo characterisation. Commercial alignment rigs were available but cost-prohibitive for an early-stage startup needing to test hundreds of probes per day. This project designed a custom sensor tester head and assembly system achieving the required degrees of alignment at a fraction of commercial cost.
@@ -49,4 +49,4 @@ Three degrees of freedom must be controlled to ensure valid back-to-back sensor 
 
 Fusion 360 · GD&T · Off-the-shelf component integration (optical rails, bearing blocks, rotary stages)
 
-{% include gallery %}
+
