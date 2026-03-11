@@ -9,8 +9,8 @@ gallery:
     image_path: /assets/images/research/lattice_wick.jpg
     alt: "3D printed lattice wick"
     title: "FDM-printed lattice structured wick geometry"
-  - url: /assets/images/research/ntop.jpg
-    image_path: /assets/images/research/ntop.jpg
+  - url: /assets/images/research/ntop.png
+    image_path: /assets/images/research/ntop.png
     alt: "Parametric Lattice in NTopology"
     title: "Parametric Lattice in NTopology"
 ---
