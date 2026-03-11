@@ -5,12 +5,12 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/research/cfrp_sem.jpg
-    image_path: /assets/images/research/cfrp_sem.jpg
+  - url: /assets/images/research/cfrp_sem.png
+    image_path: /assets/images/research/cfrp_sem.png
     alt: "SEM characterization"
     title: "SEM imaging at 800–20K× magnification — nanomaterial distribution in CFRP"
-  - url: /assets/images/research/cfrp_panels.jpg
-    image_path: /assets/images/research/cfrp_panels.jpg
+  - url: /assets/images/research/cfrp_panels.png
+    image_path: /assets/images/research/cfrp_panels.png
     alt: "Composite panel fabrication"
     title: "ANF/CNC-reinforced CFRP panels and resin infusion setup"
 ---
@@ -21,6 +21,8 @@ gallery:
 [← Back to Research](/research/){: .btn .btn--inverse}
 
 ---
+
+{% include gallery %}
 
 ## Overview
 
@@ -68,4 +70,3 @@ All testing conducted on Instron Universal Testing Machine (UTM). Results delive
 
 Autoclave · Instron UTM · SEM (EMAL, UofM) · ASTM D7264 · ASTM D2344 · Design of Experiments
 
-{% include gallery %}
