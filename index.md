@@ -4,7 +4,7 @@ author_profile: true
 permalink: /
 ---
 
-Hi! I'm Vishwa — an Aerospace Engineer and entrepreneur.
+Hi! I'm Vishwa — an **Aerospace Engineer** and **Entrepreneur**.
 
 I recently completed my MS in Aerospace Engineering from the [**University of Michigan**](https://umich.edu), where my research spanned **multidisciplinary design optimization (MDO)**,**composite materials** and **aerostructures**.
 
