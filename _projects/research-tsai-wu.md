@@ -1,6 +1,6 @@
 ---
 title: "Tsai-Wu Failure Model for Composite Aerostructural Optimization"
-permalink: /research/tsai-wu-openaerostruct/
+permalink: /research/research-tsai-wu/
 layout: single
 author_profile: true
 
