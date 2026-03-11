@@ -5,23 +5,23 @@ layout: single
 author_profile: true
 
 gallery:
-  - url: /assets/images/projects/ndt_coil_cad.jpg
-    image_path: /assets/images/projects/ndt_coil_cad.jpg
+  - url: /assets/images/projects/ndt_coil_cad.png
+    image_path: /assets/images/projects/ndt_coil_cad.png
     alt: "Coil UT probe housing CAD"
     title: "Coil UT probe — housing and backing material slab with T-R piezo alignment"
-  - url: /assets/images/projects/ndt_plate_cad.jpg
-    image_path: /assets/images/projects/ndt_plate_cad.jpg
+  - url: /assets/images/projects/ndt_plate_cad.png
+    image_path: /assets/images/projects/ndt_plate_cad.png
     alt: "Plate UT probe housing CAD"
     title: "Plate UT probe — housing and angled backing slab for 12mm depth detection"
 ---
 
-*Design Intern · Azeriri · Jun – Jul 2021*
+*Design Intern · Azeriri · Jun – Jul 2021* <br>
 *Mentors: Nishal Ramadas, Makesh Janakraj*
 
 [← Back to Projects](/projects/){: .btn .btn--inverse}
 
 ---
-
+{% include gallery %}
 ## Overview
 
 3D CAD design of housing and internal components for two non-destructive testing (NDT) ultrasonic probe variants: a **Coil UT probe** for detecting defects at 8mm depth in stainless steel, and a **Plate UT probe** for detecting defects at 12mm depth. Both probes use a Transmitter-Receiver (T-R) piezo configuration, requiring precise angular alignment of the ceramic elements to focus the ultrasonic beam at the target inspection depth via Snell's Law refraction geometry.
@@ -49,4 +49,3 @@ Similar architecture to the Coil UT probe but with a larger housing form factor 
 
 Fusion 360 · Python (Snell's Law T-R alignment calculator) · GD&T
 
-{% include gallery %}
